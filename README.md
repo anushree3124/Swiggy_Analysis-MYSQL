@@ -1,1 +1,1 @@
-# Swiggy_Analysis
+Worked on Swiggy Case Study using MySQL 
